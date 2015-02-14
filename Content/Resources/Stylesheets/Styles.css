@@ -88,3 +88,21 @@ MadCap|dropDownHotspot
 	color: #006600;
 }
 
+p.styles
+{
+	font-size: 12.0pt;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	color: #d2691e;
+	mc-auto-number-format: '{color red}Styles Class{/color} - ';
+}
+
+p.styles2
+{
+	font-size: 12.0pt;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	mc-auto-number-format: '{color green}{b}Styles2{/b} --->{/color} ';
+	font-family: 'Adobe Gothic Std B';
+}
+
