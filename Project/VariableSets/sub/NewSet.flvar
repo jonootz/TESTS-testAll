@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Comment=""
+    Name="sub regular">sub parent</Variable>
+  <Variable
+    Name="sub DT"
+    Comment=""
+    Type="DateTime"
+    LastUpdated="2015-02-14T06:57:25.8731897-08:00">"sub DT parent" hh:mm dddd</Variable>
+  <Variable
+    Name="sub regular"
+    Comment="">sub child</Variable>
+  <Variable
+    Name="sub DT"
+    Comment=""
+    Type="DateTime"
+    LastUpdated="2015-02-14T06:58:29.4888283-08:00">"sub child" hh:mm dddd</Variable>
+</CatapultVariableSet>
