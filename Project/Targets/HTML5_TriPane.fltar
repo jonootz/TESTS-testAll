@@ -5,7 +5,8 @@
   Type="WebHelp2"
   Destinations=""
   GlossaryTermConversion="marked"
-  Skin="/Project/Skins/HTML5 - Tripane.flskn">
+  Skin="/Project/Skins/HTML5 - Tripane.flskn"
+  MasterToc="/Project/TOCs/Master.fltoc">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"

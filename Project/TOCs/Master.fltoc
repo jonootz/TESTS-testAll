@@ -103,9 +103,16 @@
   <TocEntry
     Title="Zelda"
     Link="../../../Zelda/Zelda.flprj"
+    ReplaceMergeNode="false"
     AbsoluteLink="file:///C:/GIT/Zelda/Zelda.flprj"></TocEntry>
   <TocEntry
     Title="AllFileTypes"
     Link="../../../ALL_fileTypes/ALL_fileTypes.flprj"
-    AbsoluteLink="file:///C:/GIT/ALL_fileTypes/ALL_fileTypes.flprj" />
+    ReplaceMergeNode="false"
+    AbsoluteLink="file:///C:/GIT/ALL_fileTypes/ALL_fileTypes.flprj"></TocEntry>
+  <TocEntry
+    Title="DVD"
+    Link="../../../!SAVE/DVDcollection/DVDcollection.flprj"
+    ReplaceMergeNode="false"
+    AbsoluteLink="file:///C:/GIT/!SAVE/DVDcollection/DVDcollection.flprj" />
 </CatapultToc>
