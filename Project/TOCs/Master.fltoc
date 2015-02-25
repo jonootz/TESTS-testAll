@@ -8,22 +8,22 @@
     Title="Mimic">
     <TocEntry
       Title="Topic HTML5"
-      Link="/Content/HTML5 Topic.htm" />
+      Link="/Content/Mimic/HTML5 Topic.htm" />
     <TocEntry
       Title="Topic HTML5 Embedded"
-      Link="/Content/HTML5 Embed Topic.htm" />
+      Link="/Content/Mimic/HTML5 Embed Topic.htm" />
     <TocEntry
       Title="Topic Flash"
-      Link="/Content/Flash Topic.htm" />
+      Link="/Content/Mimic/Flash Topic.htm" />
     <TocEntry
       Title="Topic Flash Embedded"
-      Link="/Content/Flash Embed Topic.htm" />
+      Link="/Content/Mimic/Flash Embed Topic.htm" />
     <TocEntry
       Title="Topic MC Movie"
-      Link="/Content/MCmovie Topic.htm" />
+      Link="/Content/Mimic/MCmovie Topic.htm" />
     <TocEntry
       Title="Topic Silverlight"
-      Link="/Content/Silverlight Topic.htm" />
+      Link="/Content/Mimic/Silverlight Topic.htm" />
   </TocEntry>
   <TocEntry
     Title="ALL">

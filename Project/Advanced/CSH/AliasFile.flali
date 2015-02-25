@@ -26,11 +26,11 @@
     <Map Name="ALLBOOKMARK" Link="/Content/ALL/BOOKMARK.htm" />
     <Map Name="_V11_TESTING" Link="/Content/!v11-TESTING.htm" />
     <Map Name="COPY_OF__V11_TESTING" Link="/Content/Copy of !v11-TESTING.htm" />
-    <Map Name="FLASH_EMBED_TOPIC" Link="/Content/Flash Embed Topic.htm" />
-    <Map Name="FLASH_TOPIC" Link="/Content/Flash Topic.htm" />
-    <Map Name="HTML5_EMBED_TOPIC" Link="/Content/HTML5 Embed Topic.htm" />
-    <Map Name="HTML5_TOPIC" Link="/Content/HTML5 Topic.htm" />
-    <Map Name="MCMOVIE_TOPIC" Link="/Content/MCmovie Topic.htm" />
-    <Map Name="SILVERLIGHT_TOPIC" Link="/Content/Silverlight Topic.htm" />
+    <Map Name="FLASH_EMBED_TOPIC" Link="/Content/Mimic/Flash Embed Topic.htm" />
+    <Map Name="FLASH_TOPIC" Link="/Content/Mimic/Flash Topic.htm" />
+    <Map Name="HTML5_EMBED_TOPIC" Link="/Content/Mimic/HTML5 Embed Topic.htm" />
+    <Map Name="HTML5_TOPIC" Link="/Content/Mimic/HTML5 Topic.htm" />
+    <Map Name="MCMOVIE_TOPIC" Link="/Content/Mimic/MCmovie Topic.htm" />
+    <Map Name="SILVERLIGHT_TOPIC" Link="/Content/Mimic/Silverlight Topic.htm" />
     <Map Name="TOPIC" Link="/Content/Topic.htm" />
 </CatapultAliasFile>
