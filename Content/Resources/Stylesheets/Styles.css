@@ -113,3 +113,20 @@ h2.v11testing	/*making more of a visual cue*/
 	background-color: #ffa500;
 }
 
+ul.v11testing
+{
+	list-style-image: none;
+}
+
+ul.v11testing > li::marker
+{
+	font-size: 22pt;
+	content: '•';
+}
+
+body.v11testing	/*special body background*/
+{
+	font-family: Arial;
+	background-color: #e0ffff;
+}
+
