@@ -1,3 +1,36 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultAliasFile>
+    <Map Name="ALLVARIABLE" Link="/Content/ALL/VARIABLE.htm" />
+    <Map Name="ALLTOGGLER" Link="/Content/ALL/TOGGLER.htm" />
+    <Map Name="ALLTEXT_POPUP" Link="/Content/ALL/TEXT-POPUP.htm" />
+    <Map Name="ALLTEXT_BOX" Link="/Content/ALL/TEXT BOX.htm" />
+    <Map Name="ALLTABLE" Link="/Content/ALL/TABLE.htm" />
+    <Map Name="ALLSTYLES" Link="/Content/ALL/STYLES.htm" />
+    <Map Name="ALLSNIPPET" Link="/Content/ALL/SNIPPET.htm" />
+    <Map Name="ALLSLIDESHOW" Link="/Content/ALL/SLIDESHOW.htm" />
+    <Map Name="ALLSCREEN_CAPTURE" Link="/Content/ALL/SCREEN CAPTURE.htm" />
+    <Map Name="ALLPARAGRAPH" Link="/Content/ALL/PARAGRAPH.htm" />
+    <Map Name="ALLNAMED_DESTINATION" Link="/Content/ALL/NAMED-DESTINATION.htm" />
+    <Map Name="ALLMULTIMEDIA" Link="/Content/ALL/MULTIMEDIA.htm" />
+    <Map Name="ALLIMAGE" Link="/Content/ALL/IMAGE.htm" />
+    <Map Name="ALLHYPERLINK" Link="/Content/ALL/HYPERLINK.htm" />
+    <Map Name="ALLHELP_CONTROL" Link="/Content/ALL/HELP CONTROL.htm" />
+    <Map Name="ALLGLOSSARY" Link="/Content/ALL/GLOSSARY.htm" />
+    <Map Name="ALLFOOTNOTE" Link="/Content/ALL/FOOTNOTE.htm" />
+    <Map Name="ALLFONT" Link="/Content/ALL/FONT.htm" />
+    <Map Name="ALLEXPANDING" Link="/Content/ALL/EXPANDING.htm" />
+    <Map Name="ALLEQUATION" Link="/Content/ALL/EQUATION.htm" />
+    <Map Name="ALLDROPDOWN" Link="/Content/ALL/DROPDOWN.htm" />
+    <Map Name="ALLCROSS_REFERENCE" Link="/Content/ALL/CROSS-REFERENCE.htm" />
+    <Map Name="ALLCHARACTER" Link="/Content/ALL/CHARACTER.htm" />
+    <Map Name="ALLBOOKMARK" Link="/Content/ALL/BOOKMARK.htm" />
+    <Map Name="_V11_TESTING" Link="/Content/!v11-TESTING.htm" />
+    <Map Name="COPY_OF__V11_TESTING" Link="/Content/Copy of !v11-TESTING.htm" />
+    <Map Name="FLASH_EMBED_TOPIC" Link="/Content/Flash Embed Topic.htm" />
+    <Map Name="FLASH_TOPIC" Link="/Content/Flash Topic.htm" />
+    <Map Name="HTML5_EMBED_TOPIC" Link="/Content/HTML5 Embed Topic.htm" />
+    <Map Name="HTML5_TOPIC" Link="/Content/HTML5 Topic.htm" />
+    <Map Name="MCMOVIE_TOPIC" Link="/Content/MCmovie Topic.htm" />
+    <Map Name="SILVERLIGHT_TOPIC" Link="/Content/Silverlight Topic.htm" />
+    <Map Name="TOPIC" Link="/Content/Topic.htm" />
 </CatapultAliasFile>
