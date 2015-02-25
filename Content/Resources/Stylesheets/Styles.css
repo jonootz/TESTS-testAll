@@ -106,3 +106,10 @@ p.styles2
 	font-family: 'Adobe Gothic Std B';
 }
 
+h2.v11testing	/*making more of a visual cue*/
+{
+	font-weight: bold;
+	font-size: 18.0pt;
+	background-color: #ffa500;
+}
+
