@@ -47,7 +47,7 @@
       LastPublished="" />
     <Target
       Icon="System.Drawing.Bitmap"
-      Name="HTML5_PLUS"
+      Name="Other/HTML5_PLUS"
       Type="HTML5"
       Build="true"
       LastBuilt=""
@@ -89,14 +89,14 @@
       LastPublished="" />
     <Target
       Icon="System.Drawing.Bitmap"
-      Name="WebAIR"
+      Name="Other/WebAIR"
       Type="WebHelp AIR"
       Build="true"
       LastBuilt=""
       LastPublished="" />
     <Target
       Icon="System.Drawing.Bitmap"
-      Name="WebPLUS"
+      Name="Other/WebPLUS"
       Type="WebHelp Plus"
       Build="true"
       LastBuilt=""
@@ -110,14 +110,14 @@
       LastPublished="" />
     <Target
       Icon="System.Drawing.Bitmap"
-      Name="XHTML"
+      Name="Other/XHTML"
       Type="XHTML Book"
       Build="true"
       LastBuilt=""
       LastPublished="" />
     <Target
       Icon="System.Drawing.Bitmap"
-      Name="XPS"
+      Name="Other/XPS"
       Type="XPS"
       Build="true"
       LastBuilt=""
