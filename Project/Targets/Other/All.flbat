@@ -12,15 +12,36 @@
       LastPublished="" />
     <Target
       Icon="System.Drawing.Bitmap"
-      Name="Other/DITA"
-      Type="DITA"
+      Name="DotNET"
+      Type="DotNet Help"
       Build="true"
       LastBuilt=""
       LastPublished="" />
     <Target
       Icon="System.Drawing.Bitmap"
-      Name="DotNET"
-      Type="DotNet Help"
+      Name="Frame"
+      Type="FrameMaker"
+      Build="false"
+      LastBuilt=""
+      LastPublished="" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="HTML5_TopNav"
+      Type="HTML5"
+      Build="true"
+      LastBuilt="2/26/2015 6:15:05 AM"
+      LastPublished="" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="HTML5_TriPane"
+      Type="HTML5"
+      Build="true"
+      LastBuilt=""
+      LastPublished="" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Other/DITA"
+      Type="DITA"
       Build="true"
       LastBuilt=""
       LastPublished="" />
@@ -40,28 +61,7 @@
       LastPublished="" />
     <Target
       Icon="System.Drawing.Bitmap"
-      Name="Frame"
-      Type="FrameMaker"
-      Build="true"
-      LastBuilt=""
-      LastPublished="" />
-    <Target
-      Icon="System.Drawing.Bitmap"
       Name="Other/HTML5_PLUS"
-      Type="HTML5"
-      Build="true"
-      LastBuilt=""
-      LastPublished="" />
-    <Target
-      Icon="System.Drawing.Bitmap"
-      Name="HTML5_TopNav"
-      Type="HTML5"
-      Build="true"
-      LastBuilt=""
-      LastPublished="" />
-    <Target
-      Icon="System.Drawing.Bitmap"
-      Name="HTML5_TriPane"
       Type="HTML5"
       Build="true"
       LastBuilt=""
@@ -70,20 +70,6 @@
       Icon="System.Drawing.Bitmap"
       Name="Other/Mobile"
       Type="WebHelp Mobile"
-      Build="true"
-      LastBuilt=""
-      LastPublished="" />
-    <Target
-      Icon="System.Drawing.Bitmap"
-      Name="PDF"
-      Type="PDF"
-      Build="true"
-      LastBuilt=""
-      LastPublished="" />
-    <Target
-      Icon="System.Drawing.Bitmap"
-      Name="Web"
-      Type="WebHelp"
       Build="true"
       LastBuilt=""
       LastPublished="" />
@@ -103,13 +89,6 @@
       LastPublished="" />
     <Target
       Icon="System.Drawing.Bitmap"
-      Name="Word"
-      Type="Word"
-      Build="true"
-      LastBuilt=""
-      LastPublished="" />
-    <Target
-      Icon="System.Drawing.Bitmap"
       Name="Other/XHTML"
       Type="XHTML Book"
       Build="true"
@@ -119,6 +98,27 @@
       Icon="System.Drawing.Bitmap"
       Name="Other/XPS"
       Type="XPS"
+      Build="true"
+      LastBuilt=""
+      LastPublished="" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="PDF"
+      Type="PDF"
+      Build="true"
+      LastBuilt=""
+      LastPublished="" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Web"
+      Type="WebHelp"
+      Build="true"
+      LastBuilt=""
+      LastPublished="" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Word"
+      Type="Word"
       Build="true"
       LastBuilt=""
       LastPublished="" />
