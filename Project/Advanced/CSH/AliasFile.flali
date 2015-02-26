@@ -25,7 +25,7 @@
     <Map Name="ALLCHARACTER" Link="/Content/ALL/CHARACTER.htm" />
     <Map Name="ALLBOOKMARK" Link="/Content/ALL/BOOKMARK.htm" />
     <Map Name="_V11_TESTING" Link="/Content/!v11-TESTING.htm" />
-    <Map Name="COPY_OF__V11_TESTING" Link="/Content/AllinOneTESTING.htm" />
+    <Map Name="COPY_OF__V11_TESTING" Link="/Content/Mimic/AllinOneTESTING.htm" />
     <Map Name="FLASH_EMBED_TOPIC" Link="/Content/Mimic/Flash Embed Topic.htm" />
     <Map Name="FLASH_TOPIC" Link="/Content/Mimic/Flash Topic.htm" />
     <Map Name="HTML5_EMBED_TOPIC" Link="/Content/Mimic/HTML5 Embed Topic.htm" />
