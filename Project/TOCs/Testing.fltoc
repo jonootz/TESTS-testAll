@@ -8,22 +8,34 @@
     Title="Mimic">
     <TocEntry
       Title="Topic HTML5"
-      Link="/Content/Mimic/HTML5 Topic.htm" />
+      Link="/Content/Mimic/HTML5 Topic.htm"
+      conditions="Default.red"
+      ReplaceMergeNode="false" />
     <TocEntry
       Title="Topic HTML5 Embedded"
-      Link="/Content/Mimic/HTML5 Embed Topic.htm" />
+      Link="/Content/Mimic/HTML5 Embed Topic.htm"
+      conditions="Default.red"
+      ReplaceMergeNode="false" />
     <TocEntry
       Title="Topic Flash"
-      Link="/Content/Mimic/Flash Topic.htm" />
+      Link="/Content/Mimic/Flash Topic.htm"
+      conditions="Default.red"
+      ReplaceMergeNode="false" />
     <TocEntry
       Title="Topic Flash Embedded"
-      Link="/Content/Mimic/Flash Embed Topic.htm" />
+      Link="/Content/Mimic/Flash Embed Topic.htm"
+      conditions="Default.red"
+      ReplaceMergeNode="false" />
     <TocEntry
       Title="Topic MC Movie"
-      Link="/Content/Mimic/MCmovie Topic.htm" />
+      Link="/Content/Mimic/MCmovie Topic.htm"
+      conditions="Default.red"
+      ReplaceMergeNode="false" />
     <TocEntry
       Title="Topic Silverlight"
-      Link="/Content/Mimic/Silverlight Topic.htm" />
+      Link="/Content/Mimic/Silverlight Topic.htm"
+      conditions="Default.red"
+      ReplaceMergeNode="false" />
   </TocEntry>
   <TocEntry
     Title="ALL">

@@ -2,10 +2,10 @@
 <CatapultDestination
   Version="1"
   Comment="This is my publish destination"
-  Host="rnd.madcapsoftware.com"
+  Host=""
   User="MyAccountId"
   Password=""
-  Directory="public_html"
+  Directory="C:\inetpub\wwwroot\HTML5_PLUS"
   Port=""
   ViewUrl="rnd.madcapsoftware.com/john/Test_All"
-  Type="ftp"></CatapultDestination>
+  Type="file"></CatapultDestination>
