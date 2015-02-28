@@ -6,7 +6,7 @@
   Destinations=""
   GlossaryTermConversion="marked"
   Skin="/Project/Skins/HTML5 - Tripane.flskn"
-  MasterToc="/Project/TOCs/Master.fltoc">
+  MasterToc="/Project/TOCs/Testing.fltoc">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
