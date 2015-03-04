@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin
+  Version="2"
+  SkinType="Component"
+  Comment="HTML5 Toolbar skin"
+  ComponentType="TopicToolbar"
+  EnableResponsiveOutput="True">
+  <Stylesheet>
+    <Styles>
+      <Style
+        Name="ToolbarItem">
+        <Classes>
+          <StyleClass
+            Name="CurrentTopicIndex">
+            <Properties>
+              <Property
+                Name="BackgroundGradient">vertical #71aacd #ececec</Property>
+              <Property
+                Name="BorderBottom">solid 2px #71aacd</Property>
+            </Properties>
+          </StyleClass>
+          <StyleClass
+            Name="ExpandAll">
+            <Properties>
+              <Property
+                Name="BackgroundGradient">vertical #71aacd #ececec</Property>
+              <Property
+                Name="BorderBottom">solid 2px #71aacd</Property>
+            </Properties>
+          </StyleClass>
+          <StyleClass
+            Name="Print">
+            <Properties>
+              <Property
+                Name="BackgroundGradient">vertical #71aacd #ececec</Property>
+              <Property
+                Name="BorderBottom">solid 2px #71aacd</Property>
+            </Properties>
+          </StyleClass>
+          <StyleClass
+            Name="RemoveHighlight">
+            <Properties>
+              <Property
+                Name="BackgroundGradient">vertical #71aacd #ececec</Property>
+              <Property
+                Name="BorderBottom">solid 2px #71aacd</Property>
+            </Properties>
+          </StyleClass>
+          <StyleClass
+            Name="NextTopic">
+            <Properties>
+              <Property
+                Name="BackgroundGradient">vertical #71aacd #ececec</Property>
+              <Property
+                Name="BorderBottom">solid 2px #71aacd</Property>
+            </Properties>
+          </StyleClass>
+          <StyleClass
+            Name="PreviousTopic">
+            <Properties>
+              <Property
+                Name="BackgroundGradient">vertical #71aacd #ececec</Property>
+              <Property
+                Name="BorderBottom">solid 2px #71aacd</Property>
+            </Properties>
+          </StyleClass>
+        </Classes>
+      </Style>
+    </Styles>
+  </Stylesheet>
+  <Strings />
+</CatapultSkin>

@@ -1,6 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultSearchFilterSet>
-
-	<SearchFilter Name="My Subset"></SearchFilter>
-
+  <SearchFilter
+    Name="N64"></SearchFilter>
+  <SearchFilter
+    Name="GameCube"
+    Comment="" />
 </CatapultSearchFilterSet>

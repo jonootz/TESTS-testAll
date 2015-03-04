@@ -5,8 +5,12 @@
   Type="WebHelp2"
   Destinations=""
   GlossaryTermConversion="marked"
-  Skin="/Project/Skins/TopNavNew.flskn"
-  MasterToc="/Project/TOCs/Testing.fltoc">
+  MasterToc="/Project/TOCs/Testing.fltoc"
+  Skin="/Project/Skins/HTML5 - Top Navigation.flskn"
+  MenuSkin="/Project/Skins/menu.flskn"
+  TopicToolbarSkin="/Project/Skins/topicToolbar.flskn"
+  SearchBarSkin="/Project/Skins/searchbar.flskn"
+  SearchResultsSkin="/Project/Skins/searchResults.flskn">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
