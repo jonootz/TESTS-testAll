@@ -1,19 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultTarget
   Version="2"
-  Comment="MadCap HTML5 Target"
+  Comment="New Target"
   Type="WebHelp2"
   Destinations=""
   GlossaryTermConversion="marked"
-  Skin="/Project/Skins/TopNavNew.flskn"
-  MasterToc="/Project/TOCs/Testing.fltoc">
+  ConditionTagExpression="exclude[Default.red] ">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
     GenerateIndexProxy="true"
     GenerateGlossaryProxy="true" />
-  <Destinations>
-    <Destination
-      Link="/Project/Destinations/Destination.fldes" />
-  </Destinations>
 </CatapultTarget>
