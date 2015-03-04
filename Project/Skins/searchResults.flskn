@@ -1,6 +1,70 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<CatapultSkin Version="2" 
-	SkinType="Component" 
+<CatapultSkin
+  Version="2"
+  SkinType="Component"
   Comment="HTML5 Search Results skin"
-	ComponentType="SearchResults">
+  ComponentType="SearchResults">
+  <Stylesheet>
+    <Styles>
+      <Style
+        Name="Search Result Link">
+        <Properties>
+          <Property
+            Name="FontSize">2em</Property>
+          <Property
+            Name="Color">#008080</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Search Result Path">
+        <Properties>
+          <Property
+            Name="Color">#40cae0</Property>
+          <Property
+            Name="Display">block</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Search Result Link (focus)">
+        <Properties>
+          <Property
+            Name="Color">#32cd32</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Search Result Link (visited)">
+        <Properties>
+          <Property
+            Name="Color">#483d8b</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Search Heading">
+        <Properties>
+          <Property
+            Name="BorderBottom">solid 3px #ebebeb</Property>
+          <Property
+            Name="BorderRight">dashed 1px #ebebeb</Property>
+          <Property
+            Name="BorderLeft">dashed 1px #ebebeb</Property>
+          <Property
+            Name="PaddingTop">10px</Property>
+          <Property
+            Name="PaddingRight">10px</Property>
+          <Property
+            Name="PaddingLeft">10px</Property>
+          <Property
+            Name="BorderTop">dashed 1px #401919</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Search Result Abstract">
+        <Properties>
+          <Property
+            Name="FontFamily">Frutiger 46 Light</Property>
+        </Properties>
+      </Style>
+    </Styles>
+  </Stylesheet>
+  <Strings />
 </CatapultSkin>
